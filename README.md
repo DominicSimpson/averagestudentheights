@@ -1,4 +1,4 @@
-# averagestudentheights
+# Average Student Heights
 
 Run in your Python reader and input a number of average heights for students.
 
